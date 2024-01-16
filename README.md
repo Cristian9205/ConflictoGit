@@ -1,2 +1,2 @@
 # ConflictoGit
-soy la rama main
+Soy la rama bb
